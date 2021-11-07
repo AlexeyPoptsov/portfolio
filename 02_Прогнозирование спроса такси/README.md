@@ -14,10 +14,10 @@ _**LGBMRegressor**_ из **_lightgbm_**.
 ![link](https://i.ibb.co/3yJ0q22/image.png)
 ![link](https://i.ibb.co/HX9nQXj/image.png)
 
-#### Оценка взаимокореляции 
+#### Генерация фич и оценка взаимокореляции 
 ![link](https://i.ibb.co/kM6NfLj/image.png)
 
-#### Правильная кроссвалидация
+#### "Правильная" для временных рядов кроссвалидация
 ![link](https://i.ibb.co/VjR2JSZ/image.png)
 
 #### Предсказания RidgeCV  на не стационарных данных 
