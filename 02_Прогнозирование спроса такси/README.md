@@ -8,8 +8,28 @@ _**LGBMRegressor**_ из **_lightgbm_**.
 
 Для оценки качества работы модели использована метрика **_RMSE._**  
 
+---
+
 #### Оценка компонет ряда
-
-
 ![link](https://i.ibb.co/3yJ0q22/image.png)
+![link](https://i.ibb.co/HX9nQXj/image.png)
+
+#### Оценка взаимокореляции 
+![link](https://i.ibb.co/kM6NfLj/image.png)
+
+#### Правильная кроссвалидация
+![link](https://i.ibb.co/VjR2JSZ/image.png)
+
+#### Предсказания RidgeCV  на не стационарных данных 
+![link](https://i.ibb.co/tzLyf5F/image.png)
+
+#### Приведение ряда к стационарному виду, логарифм, первые разности
+![link](https://i.ibb.co/T2vFVFQ/image.png)
+
+#### Предсказания LGBMRegressor  на стационарных данных 
+![link](https://i.ibb.co/wSDWbph/image.png)
+
+
+
+
 
