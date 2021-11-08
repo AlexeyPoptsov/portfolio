@@ -27,3 +27,4 @@
 **_Предварительная кластеризация пользователей_**
 ![](https://i.ibb.co/yf3vH3f/image.png)
 ![](https://i.ibb.co/gJLtTFR/image.png)
+
