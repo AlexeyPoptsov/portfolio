@@ -10,6 +10,8 @@ _**LGBMRegressor**_ из **_lightgbm_**.
 
 ---
 
+### Некоторые визуализации проекта
+
 #### Оценка компонет ряда
 ![link](https://i.ibb.co/3yJ0q22/image.png)
 ![link](https://i.ibb.co/HX9nQXj/image.png)
