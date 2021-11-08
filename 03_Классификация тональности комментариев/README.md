@@ -18,7 +18,7 @@
 ![](https://i.ibb.co/b6FSHtb/image.png)
 
 
-**_WordCloud негативных и позитивных комментариеа_**
+**_WordCloud негативных и позитивных комментариев_**
 
 ![](https://i.ibb.co/qsSfsfx/image.png)
 ![](https://i.ibb.co/gTfyVsk/image.png)
