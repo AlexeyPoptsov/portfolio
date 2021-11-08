@@ -20,11 +20,15 @@
 
 **_Анализ категориальных переменных_**
 ![](https://i.ibb.co/d6WD1Vn/image.png)
-
-**_Анализ категориальных переменных_**
 ![](https://i.ibb.co/HYh3Sm4/image.png)
 
 **_Предварительная кластеризация пользователей_**
 ![](https://i.ibb.co/yf3vH3f/image.png)
 ![](https://i.ibb.co/gJLtTFR/image.png)
+
+**_Генерация фич и оценка взаимокореляции_**
+![](https://i.ibb.co/sssKrMj/image.png)
+
+**_Настройка гиперпараметров
+![](https://i.ibb.co/D4QDKyh/image.png)
 
