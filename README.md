@@ -1,10 +1,11 @@
 # **Лента проектов**
 
 ## 1. Проекты прогнозирования спроса розничной сети
+### 1.1. Модель прогзнозирования продаж мягкой мебелели в следующем месяце. 
 <br>
 
 ## 2. Проекты Kaggle 
-### [2.1. Predict Future Sales](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/overview)  
+### [2.1. Predict Future Sales. TOP 5%](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/overview)  
 <br>
 
 ## 3. Проекты MADE
@@ -14,7 +15,7 @@
 
 ## 4. Проекты KARPOV.COURSES
 ### 4.1. Система дашбордов на базе Apache Superset
-### 4.2. Система поиска анамалий и информирования через Telegramm Boot
+### 4.2. Система поиска анамалий и информирования через Telegramm Bot
 ### 4.3. ETL система на базе Apache Airflow  
 <br>
 
