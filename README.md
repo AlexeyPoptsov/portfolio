@@ -3,17 +3,17 @@
 ## 1. Проекты прогнозирования спроса розничной сети
 
 ## 2. Проекты Kaggle 
-### [Predict Future Sales](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/overview)
+### [2.1. Predict Future Sales](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/overview)  
 
 ## 3. Проекты MADE
 ### 3.1. Задача классификации пациентов по результатам анализов. (3 место / 2000+)
-### 3.2. Задача подсчета числа квадратов по базе картинок с произвольными фигурами
+### 3.2. Задача подсчета числа квадратов по базе картинок с произвольными фигурами  
 
 
 ## 4. Проекты KARPOV.COURSES
 ### 4.1. Система дашбордов на базе Apache Superset
 ### 4.2. Система поиска анамалий и информирования через Telegramm Boot
-### 4.3. ETL система на базе Apache Airflow.
+### 4.3. ETL система на базе Apache Airflow  
 
 
 ## 5. Проекты Яндекс.Практикум
