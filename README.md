@@ -1,7 +1,7 @@
 # Проекты прогнозирования спроса розничной сети
 
 # Проекты Kaggle 
-### [Predict Future Sales] (https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/overview)
+### [Predict Future Sales](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/overview)
 
 # Проекты MADE
 ### 1. Задача классификации пациентов по результатам анализов. (3 место / 2000+)
