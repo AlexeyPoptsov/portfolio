@@ -32,7 +32,7 @@ We are asking you to predict total sales for every product and store in the next
 
 ## 4. Проекты KARPOV.COURSES
 ### 4.1. Система дашбордов на базе Apache Superset
-### 4.2. Система поиска анамалий и информирования через Telegramm Bot
+### 4.2. [Система поиска анамалий и информирования через Telegramm Bot](https://ibb.co/9NXbWRS)
 ### 4.3. ETL система на базе Apache Airflow  
 <br>
 
