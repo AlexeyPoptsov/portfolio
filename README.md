@@ -1,20 +1,22 @@
 # **Лента проектов**
 
 ## 1. Проекты прогнозирования спроса розничной сети
+<br>
 
 ## 2. Проекты Kaggle 
 ### [2.1. Predict Future Sales](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/overview)  
+<br>
 
 ## 3. Проекты MADE
 ### 3.1. Задача классификации пациентов по результатам анализов. (3 место / 2000+)
 ### 3.2. Задача подсчета числа квадратов по базе картинок с произвольными фигурами  
-
+<br>
 
 ## 4. Проекты KARPOV.COURSES
 ### 4.1. Система дашбордов на базе Apache Superset
 ### 4.2. Система поиска анамалий и информирования через Telegramm Boot
 ### 4.3. ETL система на базе Apache Airflow  
-
+<br>
 
 ## 5. Проекты Яндекс.Практикум
 ### 5.1. [Проект прогнозирования оттока клиентов в телеком.](https://github.com/AlexeyPoptsov/portfolio/tree/main/01_%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2)
