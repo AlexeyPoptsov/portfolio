@@ -6,6 +6,9 @@
 
 ## 2. Проекты Kaggle 
 ### [2.1. Predict Future Sales. TOP 5%](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/overview)  
+In this competition you will work with a challenging time-series dataset consisting of daily sales data, kindly provided by one of the largest Russian software firms - 1C Company. 
+
+We are asking you to predict total sales for every product and store in the next month.
 <br>
 
 ## 3. Проекты MADE
